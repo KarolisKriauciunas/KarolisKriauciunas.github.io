@@ -1,19 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CC2</title>
-    <link>KarolisKriauciunas.github.io/</link>
-    <description>Recent content on CC2</description>
+    <title>CloudComputing</title>
+    
+    
+    
+    <link>karoliskriauciunas.github.io/</link>
+    <description>Recent content on CloudComputing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 15:56:04 +0200</lastBuildDate>
-    <atom:link href="KarolisKriauciunas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Dec 2023 16:15:11 +0200</lastBuildDate>
+    
+	<atom:link href="karoliskriauciunas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Labaratorinis(final)</title>
+      <link>karoliskriauciunas.github.io/posts/labaratorinis/</link>
+      <pubDate>Thu, 28 Dec 2023 16:15:11 +0200</pubDate>
+      
+      <guid>karoliskriauciunas.github.io/posts/labaratorinis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Palauk&amp;hellip; Jis kazka kepa
+public String generatePassword() { String password = &amp;#34;&amp;#34;; for (int i = 0; i &amp;lt; 10; i++) { password += (char) (Math.random() * 26 + 97); } int randomCharPosition = (int) (Math.random() * 10); int randomDigitPosition = (int) (Math.random() * 10); password = password.substring(0, randomCharPosition) + (int) (Math.random() * 10) + password.substring(randomCharPosition); password = password.substring(0, randomDigitPosition) + (char) (Math.random() * 26 + 65) + password.substring(randomDigitPosition); return password; } 
+          
+        
+        </description>
+    </item>
+    
     <item>
       <title>Pagrindinis</title>
-      <link>KarolisKriauciunas.github.io/posts/pagrindinis/</link>
+      <link>karoliskriauciunas.github.io/posts/pagrindinis/</link>
       <pubDate>Thu, 28 Dec 2023 15:56:04 +0200</pubDate>
-      <guid>KarolisKriauciunas.github.io/posts/pagrindinis/</guid>
-      <description></description>
+      
+      <guid>karoliskriauciunas.github.io/posts/pagrindinis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
+    
   </channel>
 </rss>
