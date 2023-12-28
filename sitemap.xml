@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>karoliskriauciunas.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-12-28T16:15:11+02:00</lastmod>
   </url><url>
-    <loc>karoliskriauciunas.github.io/posts/labaratorinis/</loc>
+    <loc>/posts/labaratorinis/</loc>
     <lastmod>2023-12-28T16:15:11+02:00</lastmod>
   </url><url>
-    <loc>karoliskriauciunas.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-12-28T16:15:11+02:00</lastmod>
   </url><url>
-    <loc>karoliskriauciunas.github.io/posts/pagrindinis/</loc>
+    <loc>/posts/pagrindinis/</loc>
     <lastmod>2023-12-28T15:56:04+02:00</lastmod>
   </url><url>
-    <loc>karoliskriauciunas.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>karoliskriauciunas.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

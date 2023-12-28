@@ -5,21 +5,21 @@
     
     
     
-    <link>karoliskriauciunas.github.io/</link>
+    <link>/</link>
     <description>Recent content on CloudComputing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Dec 2023 16:15:11 +0200</lastBuildDate>
     
-	<atom:link href="karoliskriauciunas.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Labaratorinis(final)</title>
-      <link>karoliskriauciunas.github.io/posts/labaratorinis/</link>
+      <link>/posts/labaratorinis/</link>
       <pubDate>Thu, 28 Dec 2023 16:15:11 +0200</pubDate>
       
-      <guid>karoliskriauciunas.github.io/posts/labaratorinis/</guid>
+      <guid>/posts/labaratorinis/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@ public String generatePassword() { String password = &amp;#34;&amp;#34;; for (in
     
     <item>
       <title>Pagrindinis</title>
-      <link>karoliskriauciunas.github.io/posts/pagrindinis/</link>
+      <link>/posts/pagrindinis/</link>
       <pubDate>Thu, 28 Dec 2023 15:56:04 +0200</pubDate>
       
-      <guid>karoliskriauciunas.github.io/posts/pagrindinis/</guid>
+      <guid>/posts/pagrindinis/</guid>
       <description>
         
           
